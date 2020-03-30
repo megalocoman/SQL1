@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="sqlcjvrelacional" id="162EC342-93F7-93F9-ACFF-579EE9C6EBBF" version="3.5">
+<createdBy>Cristian Jofre</createdBy>
+<createdTime>2020-03-30 01:27:22 UTC</createdTime>
+<ownerDesignName>sqlcjvrelacional</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>162EC342-93F7-93F9-ACFF-579EE9C6EBBF</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="92046A09-BA19-C961-3662-970BB8E3D479">
+<designStoragePath>C:\sqlcjv10</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
